@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working as a Software Engineer and will be joining Visier in Fall 2020
+- - 📫 You can reach me at anaghibi [at] sfu [dot] ca
