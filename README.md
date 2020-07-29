@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Software Engineer and will be joining Visier in Fall 2020
 - - 📫 You can reach me at anaghibi [at] sfu [dot] ca
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
