@@ -6,7 +6,7 @@
 <br />
 
 ### Let's stay connected!
-[<img align="left" alt="amir" width="22px" src="assets/website.png" />][website]
+[<img align="left" alt="amir" width="22px" src="assets/website2.png" />][website]
 [<img align="left" alt="amir | Medium" width="22px" src="assets/medium.png" />][medium]
 [<img align="left" alt="amir | Twitter" width="22px" src="assets/tweeter.png" />][twitter]
 [<img align="left" alt="amir | LinkedIn" width="22px" src="assets/linkedin.png" />][linkedin]
