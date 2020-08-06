@@ -9,7 +9,7 @@
 [<img align="left" alt="Website" width="25px" src="assets/website.png" />][website]
 [<img align="left" alt="Twitter" width="25px" src="assets/tweeter.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="25px" src="assets/linkedin.png" />][linkedin]
-[<img align="left" alt="Medium" width="25px" src="assets/linkedin.png" />][medium]
+[<img align="left" alt="Medium" width="25px" src="assets/medium.png" />][medium]
 
 
 
