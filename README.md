@@ -4,8 +4,8 @@
 
 ## Hi there 👋
 
-- 🔭 I'm a Software Engineer and Finance enthusiast. I'm here to provide value to YOU with
-- 📫 For more information, visit my website at https://amir.business
+- 🌿  I am a Software Engineer and Finance enthusiast. I'm here to provide value to YOU with your Career, Wealth and Business.
+- 🧭  For more information, visit my website at https://amir.business
 
 <br />
 
