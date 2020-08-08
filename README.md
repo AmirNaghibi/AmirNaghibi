@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20001191/89718766-6873a880-d976-11ea-9f04-8575d0ad06ec.png" style="max-height: 50px; max-width: 50px;" alt="mobile responsive"/>
+</p>
+
 ## Hi there 👋
 
-- 🔭 I’m currently working as a Software Engineer and will be joining Visier in Fall 2020
-- 📫 You can reach me at anaghibi [at] sfu [dot] ca
+- 🔭 I'm a Software Engineer and Finance enthusiast. I'm here to provide value to YOU with
+- 📫 For more information, visit my website at https://amir.business
 
 <br />
 
