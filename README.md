@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/20001191/89718854-70801800-d977-11ea-85da-186e34679192.png"/>
-</p>
+<h3 align="center">SRE and Software Engineer</h3>
 
 ## Hi there 👋
 
-- 🌿  I am a Software Engineer and Finance enthusiast. I'm here to provide value to YOU with your Career, Wealth and Business.
+- 🚀  I am a Software Engineer working on AWS software deployment team.
 - 🧭  For more information, visit my website at https://amir.business
 
 <br />
